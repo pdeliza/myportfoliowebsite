@@ -1,5 +1,2 @@
-========================================
-    Thanks for watching my portfolio!
-========================================
-      Pablo de la Cruz - Dec, 2023
-   =================================
+Thanks for watching my portfolio!
+Pablo de la Cruz - Dec
