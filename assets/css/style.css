@@ -354,6 +354,11 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
+}
+
+.section-title li {
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -391,6 +396,9 @@ section {
   margin-bottom: 0;
 }
 
+.about .content {
+  text-align: justify;
+}
 
 /*--------------------------------------------------------------
 # Facts
