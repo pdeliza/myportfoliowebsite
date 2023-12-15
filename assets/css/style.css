@@ -939,6 +939,14 @@ section {
   text-align: justify;
 }
 
+.services .container .section-title li{
+  text-align: left;
+}
+
+.services .container .section-title ul{
+  position: relative;
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
